@@ -1,0 +1,16 @@
+- Overview
+  - vue X marp
+    - vueで自己紹介スライド作る
+    - https://github.com/marp-team/marp-vue
+- コマンドメモ
+  - vue create vue-slide01
+  - cd vue-slide01
+  - yarn add @marp-team/marp-core @marp-team/marp-vue
+  - 以下ソースをApp.vueにコピーアンドペースト
+    - https://github.com/marp-team/marp-vue#custom-renderer
+  - yarn serve
+  - yarn add eagle.js
+- ライブラリ
+  - eagle.js
+    - vueでスライドショーを作成するためのライブラリ
+    - https://github.com/zulko/eagle.js/
