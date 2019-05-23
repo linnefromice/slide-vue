@@ -1,5 +1,17 @@
 # vue-slide01
 
+## Overview
+
+You can make slides with Vue Framework.
+
+### Working with library/frameworks
+
+You can use vue with other library/frameworks:
+
+- [Vuetify](https://vuetifyjs.com/) ... Design Framework
+- [marp](https://github.com/marp-team) ... The ecosystem to write your presentation with plain Markdown
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) ... Making Slide Framework for Vue 
+
 ## Project setup
 ```
 yarn install
