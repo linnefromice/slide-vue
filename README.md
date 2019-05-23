@@ -1,4 +1,4 @@
-# vue-slide01
+# slide-vue
 
 ## Overview
 
