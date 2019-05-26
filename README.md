@@ -12,6 +12,10 @@ You can use vue with other library/frameworks:
 - [marp](https://github.com/marp-team) ... The ecosystem to write your presentation with plain Markdown
 - [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) ... Making Slide Framework for Vue 
 
+### Sample
+
+[Github Pages](https://linnefromice.github.io/slide-vue/)
+
 ## Project setup
 ```
 yarn install
